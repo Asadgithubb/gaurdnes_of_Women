@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Guardianess</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="Instructions">Please follow these safety instructions...</string>
+    <string name="Instruction_1">1-Avoid travelling at night time.</string>
+    <string name="Instruction_2">2-Be conscious of your surroundings, whether you\'re walking, jogging, or in public spaces</string>
+    <string name="Instruction_3">3-If something feels off or makes you uncomfortable, trust your gut instincts.</string>
+    <string name="Instruction_4">4-Carry personal safety items like a whistle, pepper spray, or a personal alarm.</string>
+    <string name="Instruction_5">5-When using public transportation, wait in well-lit areas and be aware of other passengers.</string>
+    <string name="Instruction_6">6-Keep your phone charged and have the number for local emergency services readily available.</string>
+    <string name="Instruction_7">7-Be mindful of how much personal information you share online and in person.</string>
+    <string name="Instruction_8">8-Be cautious when interacting with strangers, especially in isolated areas.</string>
+    <string name="Instruction_9">9-Save important phone numbers in your contacts, including family, friends, and local authorities.</string>
+    <string name="Instruction_10">10-Knowing basic self-defense techniques can be empowering and may help you escape a dangerous situation.</string>
+    <string name="Instruction_11">11-Stay in the areas where network connectivity is good.</string>
+    <string name="Instruction_12">12-Keep mobile balance sufficient to send message or call in emergency situation.</string>
+</resources>

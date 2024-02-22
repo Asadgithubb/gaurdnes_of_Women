@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".SplashScreen">
+    <ImageView
+        android:id="@+id/appsplash"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/stencillogo" />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="B'SAFE"
+        android:textColor=" #2e86c1"
+        android:textStyle="bold"
+        android:textSize="55dp"
+        android:layout_below="@+id/appsplash"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/appname1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed By: ANS"
+        android:textColor="#2e86c1"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/appname"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>
